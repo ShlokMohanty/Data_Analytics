@@ -1,0 +1,55 @@
+the data analysis process phases:
+1) Ask 
+2) prepare 
+3) process
+4) analyze
+5) share
+6) Act
+
+how do we know that data has a life cycle?
+
+ans:starts with the right data analysis tool.
+These includes spreadsheets ,databases,query languages,and software visualization 
+software.
+life cycle of data is :
+1) plan
+2) capture
+3) manage
+4) analyze 
+5) archive 
+6) destroy
+planning happens well before starting an analysis project.
+During planning ,a business decides what kind of data it needs.
+how will it be managed throughout the life cycle,
+who will be responsible for it and the optimal outcomes.
+lets say an electricity provider wanted to gain insights into how to save people 
+energy.
+
+planning phase:
+they might decide to capture information on how much electricity its customer 
+use each year ,what types of buildings are being powered,and what types of devices are being powered
+inside them.The electricity company would also decide which team members will be 
+responsible for collecting ,storing and sharing that data All of this happens 
+during planning,and it helps set up the rest of the project.
+The next phase is when you capture data.
+This is where data is collected from a variety of different sources and brought
+into the organization.
+With so much data being created evryday the ways are endless to collect it.
+getting data from outside resources.
+publicly available dataset like the national climatic data center.
+company's own documents and files,which are usually stored inside a databases
+
+Database-->its a collection of data stored in a computer system.
+In case of our electricity provider,the business would probably measure data
+usage among customers within a database that it owns.As a quick note,when 
+you maintain a datbase of customer information,ensuring data integrity,
+credibility and privacy are all important concerns.
+manage--->this is very important phase to data cleansing.
+Analyze-->data is used to solve problem make great decisions and 
+support business goals.
+Archive-->means storing data in a place where its still available but
+may not be used again.
+During analysis,analysts had a huge amounts of data.
+destoy--> data erasure software is used for this ,important for protecting the 
+company's private information,as well as private data about its customers.
+               
